@@ -1,0 +1,15 @@
+{
+  "name": "show-hide",
+  "version": "1.0.0",
+  "description": "Minimalist DOM API to fade to show or hide elements",
+  "main": "dist/index.js",
+  "repository": "git@github.com:AnandChowdhary/show-hide.git",
+  "author": "Anand Chowdhary <mail@anandchowdhary.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
