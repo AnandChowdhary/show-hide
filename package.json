@@ -1,6 +1,6 @@
 {
   "name": "show-hide",
-  "version": "1.0.0",
+  "version": "0.9.0",
   "description": "Minimalist DOM API to fade to show or hide elements",
   "main": "dist/index.js",
   "module": "dist/index.js",
